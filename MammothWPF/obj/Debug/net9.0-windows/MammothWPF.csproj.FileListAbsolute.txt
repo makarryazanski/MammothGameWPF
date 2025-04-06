@@ -1,0 +1,172 @@
+C:\Users\The Kolchin Family\source\repos\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\Views\MainWindow.g.cs
+C:\Users\The Kolchin Family\source\repos\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\The Kolchin Family\source\repos\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\MammothWPF_MarkupCompile.cache
+C:\Users\The Kolchin Family\source\repos\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\MammothWPF_MarkupCompile.lref
+C:\Users\The Kolchin Family\source\repos\MammothWPF\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.exe
+C:\Users\The Kolchin Family\source\repos\MammothWPF\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.deps.json
+C:\Users\The Kolchin Family\source\repos\MammothWPF\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.runtimeconfig.json
+C:\Users\The Kolchin Family\source\repos\MammothWPF\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.dll
+C:\Users\The Kolchin Family\source\repos\MammothWPF\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.pdb
+C:\Users\The Kolchin Family\source\repos\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\Views\MainWindow.baml
+C:\Users\The Kolchin Family\source\repos\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.g.resources
+C:\Users\The Kolchin Family\source\repos\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The Kolchin Family\source\repos\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.AssemblyInfoInputs.cache
+C:\Users\The Kolchin Family\source\repos\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.AssemblyInfo.cs
+C:\Users\The Kolchin Family\source\repos\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.csproj.CoreCompileInputs.cache
+C:\Users\The Kolchin Family\source\repos\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.dll
+C:\Users\The Kolchin Family\source\repos\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\refint\MammothWPF.dll
+C:\Users\The Kolchin Family\source\repos\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.pdb
+C:\Users\The Kolchin Family\source\repos\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.genruntimeconfig.cache
+C:\Users\The Kolchin Family\source\repos\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\ref\MammothWPF.dll
+C:\Users\The Kolchin Family\source\repos\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\Views\GameWindow.baml
+C:\Users\The Kolchin Family\source\repos\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\Views\GameWindow.g.cs
+d:\Документы\MammothWPF\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.exe
+d:\Документы\MammothWPF\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.deps.json
+d:\Документы\MammothWPF\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.runtimeconfig.json
+d:\Документы\MammothWPF\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.dll
+d:\Документы\MammothWPF\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.pdb
+d:\Документы\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\Views\GameWindow.baml
+d:\Документы\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\Views\GameWindow.g.cs
+d:\Документы\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\Views\MainWindow.g.cs
+d:\Документы\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\App.g.cs
+d:\Документы\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\MammothWPF_MarkupCompile.cache
+d:\Документы\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\MammothWPF_MarkupCompile.lref
+d:\Документы\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\Views\MainWindow.baml
+d:\Документы\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.g.resources
+d:\Документы\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.GeneratedMSBuildEditorConfig.editorconfig
+d:\Документы\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.AssemblyInfoInputs.cache
+d:\Документы\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.AssemblyInfo.cs
+d:\Документы\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.csproj.CoreCompileInputs.cache
+d:\Документы\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.dll
+d:\Документы\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\refint\MammothWPF.dll
+d:\Документы\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.pdb
+d:\Документы\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.genruntimeconfig.cache
+d:\Документы\MammothWPF\MammothWPF\obj\Debug\net9.0-windows\ref\MammothWPF.dll
+D:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\GameWindow.g.cs
+D:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\MainWindow.g.cs
+D:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\App.g.cs
+D:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF_MarkupCompile.cache
+D:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF_MarkupCompile.lref
+D:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.dll
+D:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\refint\MammothWPF.dll
+D:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.pdb
+D:\MammothWPF2\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.exe
+D:\MammothWPF2\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.deps.json
+D:\MammothWPF2\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.runtimeconfig.json
+D:\MammothWPF2\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.dll
+D:\MammothWPF2\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.pdb
+D:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\GameWindow.baml
+D:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\MainWindow.baml
+D:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.g.resources
+D:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.AssemblyInfoInputs.cache
+D:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.AssemblyInfo.cs
+D:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.csproj.CoreCompileInputs.cache
+D:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.genruntimeconfig.cache
+D:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\ref\MammothWPF.dll
+D:\Документы\MammothWPF2\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.exe
+D:\Документы\MammothWPF2\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.deps.json
+D:\Документы\MammothWPF2\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.runtimeconfig.json
+D:\Документы\MammothWPF2\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.dll
+D:\Документы\MammothWPF2\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.pdb
+D:\Документы\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\HighScoresWindow.baml
+D:\Документы\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\PlayerNameWindow.baml
+D:\Документы\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\GameWindow.g.cs
+D:\Документы\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\HighScoresWindow.g.cs
+D:\Документы\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\MainWindow.g.cs
+D:\Документы\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\PlayerNameWindow.g.cs
+D:\Документы\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\App.g.cs
+D:\Документы\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF_MarkupCompile.cache
+D:\Документы\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF_MarkupCompile.lref
+D:\Документы\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\GameWindow.baml
+D:\Документы\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\MainWindow.baml
+D:\Документы\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.g.resources
+D:\Документы\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.AssemblyInfoInputs.cache
+D:\Документы\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.AssemblyInfo.cs
+D:\Документы\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.csproj.CoreCompileInputs.cache
+D:\Документы\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.dll
+D:\Документы\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\refint\MammothWPF.dll
+D:\Документы\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.pdb
+D:\Документы\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.genruntimeconfig.cache
+D:\Документы\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\ref\MammothWPF.dll
+G:\MammothWPF2\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.exe
+G:\MammothWPF2\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.deps.json
+G:\MammothWPF2\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.runtimeconfig.json
+G:\MammothWPF2\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.dll
+G:\MammothWPF2\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.pdb
+G:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\HighScoresWindow.baml
+G:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\PlayerNameWindow.baml
+G:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\GameWindow.g.cs
+G:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\HighScoresWindow.g.cs
+G:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\MainWindow.g.cs
+G:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\PlayerNameWindow.g.cs
+G:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\App.g.cs
+G:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF_MarkupCompile.cache
+G:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF_MarkupCompile.lref
+G:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\GameWindow.baml
+G:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\MainWindow.baml
+G:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.g.resources
+G:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.GeneratedMSBuildEditorConfig.editorconfig
+G:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.AssemblyInfoInputs.cache
+G:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.AssemblyInfo.cs
+G:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.csproj.CoreCompileInputs.cache
+G:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.dll
+G:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\refint\MammothWPF.dll
+G:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.pdb
+G:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.genruntimeconfig.cache
+G:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\ref\MammothWPF.dll
+F:\MammothWPF2\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.exe
+F:\MammothWPF2\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.deps.json
+F:\MammothWPF2\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.runtimeconfig.json
+F:\MammothWPF2\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.dll
+F:\MammothWPF2\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.pdb
+F:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\HighScoresWindow.baml
+F:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\PlayerNameWindow.baml
+F:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\GameWindow.g.cs
+F:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\HighScoresWindow.g.cs
+F:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\MainWindow.g.cs
+F:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\PlayerNameWindow.g.cs
+F:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\App.g.cs
+F:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF_MarkupCompile.cache
+F:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF_MarkupCompile.lref
+F:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\GameWindow.baml
+F:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\MainWindow.baml
+F:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.g.resources
+F:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.GeneratedMSBuildEditorConfig.editorconfig
+F:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.AssemblyInfoInputs.cache
+F:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.AssemblyInfo.cs
+F:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.csproj.CoreCompileInputs.cache
+F:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.dll
+F:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\refint\MammothWPF.dll
+F:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.pdb
+F:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.genruntimeconfig.cache
+F:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\ref\MammothWPF.dll
+E:\MammothWPF2\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.exe
+E:\MammothWPF2\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.deps.json
+E:\MammothWPF2\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.runtimeconfig.json
+E:\MammothWPF2\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.dll
+E:\MammothWPF2\MammothWPF\bin\Debug\net9.0-windows\MammothWPF.pdb
+E:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\HighScoresWindow.baml
+E:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\PlayerNameWindow.baml
+E:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\GameWindow.g.cs
+E:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\HighScoresWindow.g.cs
+E:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\MainWindow.g.cs
+E:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\PlayerNameWindow.g.cs
+E:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\App.g.cs
+E:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF_MarkupCompile.cache
+E:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF_MarkupCompile.lref
+E:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\GameWindow.baml
+E:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\MainWindow.baml
+E:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.g.resources
+E:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.GeneratedMSBuildEditorConfig.editorconfig
+E:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.AssemblyInfoInputs.cache
+E:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.AssemblyInfo.cs
+E:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.csproj.CoreCompileInputs.cache
+E:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.dll
+E:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\refint\MammothWPF.dll
+E:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.pdb
+E:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\MammothWPF.genruntimeconfig.cache
+E:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\ref\MammothWPF.dll
+E:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\HelpWindow.baml
+E:\MammothWPF2\MammothWPF\obj\Debug\net9.0-windows\Views\HelpWindow.g.cs
